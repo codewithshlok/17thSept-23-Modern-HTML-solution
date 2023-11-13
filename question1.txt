@@ -1,0 +1,22 @@
+Q1. List out the features of HTML5.
+Answer:-
+* Improved multimedia support:-
+HTML5 includes built-in support for video and audio, making it easier to embed media content into web pages without the need for third-party plugins like Flash. This provides a more seamless and reliable user experience.
+
+* Semantic markup:-
+HTML5 introduces new semantic elements like <header>, <nav>, <article>, and <footer> that provide more context and meaning to web page content, making it easier for search engines to index and categorize pages. This also helps with accessibility and enables a better understanding of web content.
+
+* Mobile-friendly:-
+HTML5 is designed to work well on mobile devices, with features like responsive design, touch support, and location-based services. This allows developers to create websites that adapt to different screen sizes and input methods.
+
+* Simplified code:-
+HTML5 introduces new features like native form validation and input types, which simplify the code needed to create web forms. This helps developers create more user-friendly and secure forms.
+
+* Canvas and SVG:-
+HTML5 introduces new graphics elements, including Canvas and SVG, which allow developers to create and manipulate graphics and animations directly within the browser.
+
+* Offline support:-
+HTML5 provides a new offline storage feature that enables web applications to store data locally on the user's device, allowing them to work without internet connection.
+
+* Improved performance:-
+HTML5 includes several features that help improve the performance of web applications, such as WebSockets for real-time communication and Web Workers for background processing.
